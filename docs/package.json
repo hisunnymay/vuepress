@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "null",
+  "main": "index.js",
+  "authors": {
+    "name": "sunnyMay",
+    "email": "hisunnymay@163.com"
+  },
+  "repository": "null/test",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
